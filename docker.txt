@@ -1,0 +1,30 @@
+Ques) What is docker ?
+Ans) Docker is a platform that helps developers build, share and run applications with the container.
+
+Example of docker
+Example 1:-
+Developer 1 started project
+Developer 2 join after 2 years
+
+Now frameworks and library version has updated and some library or code not working properly.
+
+Example 2:-
+Developer make project
+After 2 years project completed and deploying on server
+Now frameworks and library version has updated and some library or code not working properly.
+
+Docker is solution 
+A docker container has everything about a project like code, runtime, system tools, system libraries and settings wuth specific version 
+
+We use this container to build, run and shaere code or project.
+
+Why you need Docker learn docker
+
+(1) This is important skill for developer
+(2) Required skill for experienced developer
+(3) Developer has to deploy project so they need to learn it.
+(4) It can help you to get a good job.
+(5) It can help in salary hike.
+(6) It helps to improve productivity
+
+
