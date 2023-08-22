@@ -11,3 +11,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/bSe3qawNQEY) | Docker tutorial in Hindi #4 What is Image and container
 _________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/n5yO5IOtV0A) | Docker tutorial in Hindi #5 What is docker hub and docker desktop.
+_________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/JRsD5jRSDv0) | Docker tutorial in Hindi #6 What is base image | parent image
