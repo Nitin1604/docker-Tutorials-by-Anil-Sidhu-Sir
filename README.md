@@ -21,3 +21,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/Le1Sp71JI70?si=Ampuimg95luQd_BV) | Docker tutorial in Hindi #9 Create docker file | make image from docker file
 _________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/GiLj9GibpSw?si=H4KHAQgHLbvdMnTH) | Docker tutorial in Hindi #10 Run Project with container
+_________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/5D6FxfrP0KA?si=J4igoj0Dy09rVzD4) | Docker tutorial in Hindi #11 .dockerignore | Docker Ignore File
