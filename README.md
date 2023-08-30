@@ -23,3 +23,5 @@ ________________________________________________________________________________
 YouTube Link : (https://youtu.be/GiLj9GibpSw?si=H4KHAQgHLbvdMnTH) | Docker tutorial in Hindi #10 Run Project with container
 _________________________________________________________________________________________________________________________________________________
 YouTube Link : (https://youtu.be/5D6FxfrP0KA?si=J4igoj0Dy09rVzD4) | Docker tutorial in Hindi #11 .dockerignore | Docker Ignore File
+_________________________________________________________________________________________________________________________________________________
+YouTube Link : (https://youtu.be/YUYnYsBm114?si=c4fUhypXjItzG2Ip) | Docker tutorial in Hindi #12 Delete Images and Container with terminal
